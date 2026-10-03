@@ -1,0 +1,11 @@
+/*
+!/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/docs/
+/docs/*
+!/docs/RELEASE_v0.4.16-alpha.md
+!/docs/screenshots/
+/docs/screenshots/*
+!/docs/screenshots/01-day.png
+!/docs/screenshots/02-night.png
